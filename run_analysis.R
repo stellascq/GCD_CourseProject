@@ -59,4 +59,3 @@ for (s in 1:numSubjects) {
   }
 }
 write.table(result, "tidy_data_averages.txt")
-© 2015 Microsoft Termos Privacidade e cookies Desenvolvedores Português (Brasil)
